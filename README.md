@@ -1,27 +1,37 @@
 # Hi, I'm Yechuan Wei 👋
 
-**ICT student · Data Engineering & AI · Turku University of Applied Sciences**
+**Data Engineering & AI student · AI agents · Applied generative AI**
 
-I build Python applications that connect data, AI, and practical workflows. My projects range from live vessel tracking and document understanding to local LLM applications and sports simulation.
+I'm an ICT student at **Turku University of Applied Sciences**, building AI-powered applications and data systems. My hands-on experience spans personal projects and internship work: AI agents, interactive Telegram agents, image generation, image-to-3D workflows, document understanding, and real-time data applications.
 
-## 🧠 Areas I explore
+## 🤖 AI & agent experience
 
-- **Data engineering:** data ingestion, relational databases, APIs, and live data visualization.
-- **Applied AI:** local LLM integration, OCR, and document understanding.
-- **Software development:** modular Python applications, interactive demos, and clear interfaces.
-- **Learning through projects:** deep learning coursework and Monte Carlo simulation.
+- **AI agent development:** building interactive agents and working with reasoning and tool-use workflows; familiar with the **ReAct** pattern.
+- **Telegram agents:** built an interactive AI agent that users can engage with through Telegram.
+- **RAG architecture:** familiar with retrieval-augmented generation and how retrieval connects external knowledge to LLM responses.
+- **Generative image workflows:** hands-on experience with prompt-driven image generation and refining outputs through prompt iteration.
+- **Image-to-3D workflows:** worked with workflows that turn 2D images into 3D models.
+- **LLM application integration:** connecting models to application backends and user interfaces, including local LLMs and streaming responses.
 
-## 🛠️ Technologies in my projects
+## 💼 Internship & project experience
 
-| Area | Technologies |
+During my internship, I worked on AI agent and generative AI features, including an interactive Telegram agent, prompt-based image generation, and 2D-image-to-3D-model workflows.
+
+Some of my most substantial work lives in private or employer-owned repositories. The public projects below show another part of my experience, alongside these internship contributions.
+
+## 🛠️ Technical toolkit
+
+| Area | Technologies & experience |
 | --- | --- |
+| AI agents & architecture | Agent development · ReAct patterns · RAG architecture · Telegram agent interaction |
+| Generative AI | Prompt-driven image generation · Image-to-3D workflows · LLM integration · Ollama |
 | Languages | Python · SQL · JavaScript · HTML · CSS |
 | Backend & applications | FastAPI · Flask · Streamlit · SQLAlchemy · Pydantic |
 | Data & real-time systems | PostgreSQL · SQLite · MQTT · WebSocket |
-| AI & visualization | Ollama · OCR · vision-language model integration · Leaflet |
+| Document AI & visualization | OCR · Vision-language model integration · Leaflet |
 | Development tools | Git · GitHub · Docker |
 
-## 📌 Selected projects
+## 📌 Selected public projects
 
 ### [Weld Map & Traceability Assistant](https://github.com/wycffff/Weld_map_understanding_and_weld_traceability_assistant)
 Converts engineering drawings and weld records into structured traceability data. Combines OCR-first extraction, optional vision-language model assistance, SQLite storage, and a Streamlit interface for review and export.
@@ -29,9 +39,9 @@ Converts engineering drawings and weld records into structured traceability data
 **Python · OCR · SQLite · Streamlit**
 
 ### [AIS Vessel Tracking & Prediction](https://github.com/wycffff/ais_vessel_tracking_project)
-Collects live vessel data from Digitraffic MQTT, stores vessel tracks in PostgreSQL, and presents them on an interactive map with WebSocket updates. Includes API access, CSV exports, and short-term movement extrapolation.
+Collects live vessel data from Digitraffic MQTT, stores vessel tracks in PostgreSQL, and presents them on an interactive map with WebSocket updates. Includes API access, CSV exports, short-term movement extrapolation, and a local LLM agent for natural-language vessel queries through database tools.
 
-**Python · FastAPI · PostgreSQL · MQTT · Leaflet**
+**Python · FastAPI · PostgreSQL · MQTT · LLM agent · Leaflet**
 
 ### [Nordic Travel AI](https://github.com/wycffff/nordic-travel-ai)
 A travel-planning web application for Finland and Nordic destinations, using a local LLM to generate itineraries with streaming responses and Markdown rendering.
@@ -43,10 +53,10 @@ A Python project estimating TPS's 2024–25 playoff chances using Monte Carlo si
 
 **Python · Monte Carlo simulation**
 
-## 🌱 Learning & development
+## 🌱 Further learning
 
-My repositories document coursework and hands-on experiments in data engineering, AI, and application development, including my [Deep Learning Final Project](https://github.com/wycffff/DL_Final_Project_2025).
+Alongside application development, I continue developing my foundations in data engineering and deep learning. My [Deep Learning Final Project](https://github.com/wycffff/DL_Final_Project_2025) documents part of that coursework.
 
 ---
 
-[Explore my repositories →](https://github.com/wycffff?tab=repositories)
+[Explore my public repositories →](https://github.com/wycffff?tab=repositories)
